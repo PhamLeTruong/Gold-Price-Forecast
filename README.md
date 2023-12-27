@@ -7,7 +7,7 @@ Build LSTM and CNN-LSTM models to forecast future gold prices
 - Gold_Price_3.csv
 
 # Deploy Web
-- Link: [phamletruong-gold-price-forecast](https://phamletruong-gold-price-forecast.streamlit.app/)
+- Link: https://phamletruong-gold-price-forecast.streamlit.app
 - Upload datasets
 
 ![upload_dataset](https://raw.githubusercontent.com/PhamLeTruong/Gold-Price-Forecast/main/upload_dataset.png)
