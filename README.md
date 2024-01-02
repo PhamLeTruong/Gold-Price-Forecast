@@ -27,5 +27,3 @@ Build LSTM and CNN-LSTM models to forecast future gold prices
 - Data visualization diagrams.
 
 ![visualize](https://raw.githubusercontent.com/PhamLeTruong/Gold-Price-Forecast/main/images/visualize.png)
-
-
